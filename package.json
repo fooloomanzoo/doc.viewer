@@ -1,0 +1,23 @@
+{
+  "name": "doc.viewer",
+  "version": "0.0.1",
+  "description": "webapp/server/gui to display documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fooloomanzoo/doc.viewer.git"
+  },
+  "author": "fooloomanzoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fooloomanzoo/doc.viewer/issues"
+  },
+  "homepage": "https://github.com/fooloomanzoo/doc.viewer#readme",
+  "dependencies": {
+    "compress": "^0.99.0",
+    "spdy": "^3.4.4"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "doc.viewer",
+  "description": "webapp/server/gui to display documents",
+  "main": "index.js",
+  "authors": [
+    "fooloomanzoo"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fooloomanzoo/doc.viewer",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

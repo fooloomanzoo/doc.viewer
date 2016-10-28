@@ -19,5 +19,8 @@
   "dependencies": {
     "compress": "^0.99.0",
     "spdy": "^3.4.4"
+  },
+  "devDependencies": {
+    "polymer-build": "^0.4.1"
   }
 }
